@@ -1,0 +1,47 @@
+<?php
+
+return [
+    'page_title' => 'SERVIXA - لوحة تحكم المدير',
+    'dashboard' => 'لوحة التحكم',
+    'dashboard_subtitle' => 'نظرة عامة على نشاط النظام وإحصائياته',
+    'analytics' => 'الإحصائيات',
+    'users' => 'المستخدمون',
+    'business_accounts' => 'حسابات الأعمال',
+    'services' => 'الخدمات',
+    'service_requests' => 'طلبات الخدمة',
+    'pending_business_accounts' => 'حسابات أعمال معلقة',
+    'pending_services' => 'خدمات معلقة',
+    'review' => 'مراجعة',
+    'categories' => 'التصنيفات',
+    'subcategories' => 'التصنيفات الفرعية',
+    'main' => 'رئيسي',
+    'sub' => 'فرعي',
+    'services_by_status' => 'الخدمات حسب الحالة',
+    'business_by_status' => 'حسابات الأعمال حسب الحالة',
+    'pending' => 'معلقة',
+    'approved' => 'مقبولة',
+    'rejected' => 'مرفوضة',
+    'suspended' => 'موقوفة',
+    'recent_activities' => 'آخر النشاطات',
+    'no_activities' => 'لا توجد نشاطات حديثة',
+
+    'main_categories' => 'التصنيفات الرئيسية',
+    'sub_categories' => 'التصنيفات الفرعية',
+    'roles' => 'الأدوار',
+    'admins' => 'المسؤولون',
+    'activity_types' => 'أنواع الأنشطة',
+    'cities' => 'المدن',
+    'dynamic_fields' => 'الحقول الديناميكية',
+    'sliders' => 'السلايدر',
+    'reports' => 'البلاغات',
+
+    'services_by_type' => 'الخدمات حسب النوع',
+    'requests_last_7_days' => 'طلبات الخدمة خلال آخر 7 أيام',
+    'business_by_city' => 'حسابات الأعمال حسب المدينة',
+
+    'sale' => 'بيع',
+    'rent' => 'إيجار',
+
+    'view' => 'عرض',
+    'requests' => 'الطلبات',
+];

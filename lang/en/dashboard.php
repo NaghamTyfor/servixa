@@ -1,0 +1,47 @@
+<?php
+
+return [
+    'page_title' => 'SERVIXA - Admin Dashboard',
+    'dashboard' => 'Dashboard',
+    'dashboard_subtitle' => 'System activity overview and statistics',
+    'analytics' => 'Analytics',
+    'users' => 'Users',
+    'business_accounts' => 'Business Accounts',
+    'services' => 'Services',
+    'service_requests' => 'Service Requests',
+    'pending_business_accounts' => 'Pending Business Accounts',
+    'pending_services' => 'Pending Services',
+    'review' => 'Review',
+    'categories' => 'Categories',
+    'subcategories' => 'SubCategories',
+    'main' => 'Main',
+    'sub' => 'Sub',
+    'services_by_status' => 'Services by Status',
+    'business_by_status' => 'Business Accounts by Status',
+    'pending' => 'Pending',
+    'approved' => 'Approved',
+    'rejected' => 'Rejected',
+    'suspended' => 'Suspended',
+    'recent_activities' => 'Recent Activities',
+    'no_activities' => 'No recent activities',
+
+    'main_categories' => 'Main Categories',
+    'sub_categories' => 'Subcategories',
+    'roles' => 'Roles',
+    'admins' => 'Admins',
+    'activity_types' => 'Activity Types',
+    'cities' => 'Cities',
+    'dynamic_fields' => 'Dynamic Fields',
+    'sliders' => 'Sliders',
+    'reports' => 'Reports',
+
+    'services_by_type' => 'Services by Type',
+    'requests_last_7_days' => 'Service Requests in Last 7 Days',
+    'business_by_city' => 'Business Accounts by City',
+
+    'sale' => 'Sale',
+    'rent' => 'Rent',
+
+    'view' => 'View',
+    'requests' => 'Requests',
+];
